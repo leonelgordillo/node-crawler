@@ -1,0 +1,22 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "Web crawler using javascript",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonelgordillo/node-crawler.git"
+  },
+  "author": "Leonel Gordillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonelgordillo/node-crawler/issues"
+  },
+  "homepage": "https://github.com/leonelgordillo/node-crawler#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
